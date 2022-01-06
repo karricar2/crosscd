@@ -1,7 +1,0 @@
-apiVersion: cache.gcp.crossplane.io/v1beta1
-kind: CloudMemorystoreInstanceClass
-metadata:
-  name: cloudmemorystoreinstance
-specTemplate:
-  forProvider:
-    memorySizeGb: 1

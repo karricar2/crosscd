@@ -1,5 +1,0 @@
-commonLabels:
-  provider: gcp
-  engine: postgresql
-resources:
-- class.yaml

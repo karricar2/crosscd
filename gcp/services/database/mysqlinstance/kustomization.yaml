@@ -1,5 +1,0 @@
-commonLabels:
-  provider: gcp
-  engine: mysql
-resources:
-- class.yaml

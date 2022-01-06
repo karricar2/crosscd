@@ -1,4 +1,0 @@
-commonLabels:
-  provider: gcp
-resources:
-- resource.yaml
